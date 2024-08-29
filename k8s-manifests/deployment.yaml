@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-app
-        image: theabdullahchaudhary/my-apache-server-with-love-message
+        image: hmbilal108944/python-flask-app
         ports:
         - containerPort: 80
