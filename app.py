@@ -6,7 +6,7 @@ def create_app():
 
     @app.route('/')
     def home():
-        return 'Well done! hello i have done changes for demo aws user name Bilal Amjad, ok'
+        return 'Well done! this is demo commit'
 
     return app
 if __name__ == '__main__':
