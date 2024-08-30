@@ -46,5 +46,3 @@ Contributions are welcome! If you have any suggestions or run into any issues, f
 
 - [Mathesh M](https://www.linkedin.com/in/mathesh-me/) on LinkedIn.
 - You Can also check out my [Medium](https://medium.com/@mathesh-me) for articles on DevOps Tools and Technologies.️
-
-- 
